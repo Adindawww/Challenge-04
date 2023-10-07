@@ -1,0 +1,84 @@
+.navbar-judul {
+  font-size: 30px;
+  color: rgb(220, 28, 28);
+  font-style: normal;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.collapse {
+  justify-content: center;
+}
+
+.form-control {
+  border-radius: 20px;
+  position: center;
+  width: 400px;
+}
+
+.login-btn {
+  border-radius: 20px;
+  margin-right: 20px;
+  width: 100px;
+}
+
+.register-btn {
+  border-radius: 20px;
+  width: 100px;
+}
+
+.navbar-container {
+  position: relative;
+  z-index: 1;
+}
+
+.carousel-caption {
+  position: absolute;
+  left: 20px;
+  bottom: 400px;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  text-align: left;
+  background-color: rgba(153, 142, 142, 0.5);
+  max-width: 650px;
+}
+
+.btn-nonton {
+  font-size: 30px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+}
+
+#carouselExampleIndicators {
+  margin-bottom: 20px;
+}
+
+.judul-home2 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.judul-home2 h2 {
+  margin: 0;
+}
+
+.judul-home2 p {
+  margin: 0;
+  color: red;
+}
+
+.carousel-image-container {
+  margin: 0 4px;
+}
+
+.carousel-inner img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
